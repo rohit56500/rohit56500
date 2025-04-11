@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- I m from Kathmandu .<br>- 🔭 I’m currently studing at  The British college.<br>- 📚 I've learned c++,python, html&css.<br>- ⚡ Interested in web design frontend & backend.</p>
+<p align="left">-    I m from Kathmandu .<br>- 🔭 I’m currently studing at  The British college.<br>- 📚 I've learned c++,python, html&css.<br>- ⚡ Interested in web design frontend & backend.</p>
 
 ###
 
