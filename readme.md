@@ -22,8 +22,7 @@
 
 ###
 
-<p align="left">-    I m from Kathmandu .<br>- 🔭 I’m currently studing at  The British college.<br>- 📚 I've learned c++,python, html&css.<br>- ⚡ Interested in web design frontend and databse oracle.</p>
-
+<p align="left">-    Aspiring Full-Stack Developer | Learning React, Node.js & MongoDB | Building real-world projects like E-commerce & Management Systems | Passionate about web development & problem solving | Open to internship opportunities>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
