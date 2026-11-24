@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">-    Aspiring Full-Stack Developer | Learning React, Node.js & MongoDB | Building real-world projects like E-commerce & Management Systems | Passionate about web development & problem solving | Open to internship opportunities>
+<p align="left">-    Aspiring Full-Stack Developer | Learning php, Sql, Oracle, java| Building real-world projects like E-commerce & Management Systems | Passionate about web development & problem solving | Open to internship opportunities>
 
 
 <h3 align="left">🛠 Language and tools</h3>
